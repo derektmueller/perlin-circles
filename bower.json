@@ -10,7 +10,8 @@
     "purescript-prelude": "^4.1.0",
     "purescript-console": "^4.2.0",
     "purescript-effect": "^2.0.0",
-    "purescript-p5": "^0.7.0"
+    "purescript-p5": "git@github.com:parenparen/purescript-p5.git#e90370d807ad00f8cbbe46b4d0a05177c738ec5f",
+    "purescript-safely": "^4.0.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^4.0.0",
